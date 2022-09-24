@@ -1,0 +1,1 @@
+Hi this is Pragath Kumar writting text to the file using linux cat command
